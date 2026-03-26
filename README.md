@@ -8,7 +8,7 @@
 
 ## Demonstração em Vídeo
 
-[Assista ao vídeo do projeto no Youtube](https://studio.youtube.com/video/1mAasDOF_Qw/edit)
+[Assista ao vídeo do projeto no Youtube](https://youtu.be/1mAasDOF_Qw)
 
 ---
 
