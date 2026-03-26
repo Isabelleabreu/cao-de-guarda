@@ -2,9 +2,9 @@
 
 ## 📌 Informações do Projeto
 
-**Autora: Isabelle dos Santos de Abreu**
-**Turma: DS3B**
-**Disciplina: Internet das Coisas (Iot)**
+**Autora:** Isabelle dos Santos de Abreu  
+**Turma:** DS3B  
+**Disciplina:** Internet das Coisas (IoT)
 
 ## Demonstração em Vídeo
 
