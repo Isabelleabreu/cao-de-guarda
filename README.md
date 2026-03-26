@@ -1,15 +1,14 @@
-# cao-de-guarda
-
 ## Cão de Guarda: Verifica o status do servidor 🛜
 
-**Isabelle dos Santos de Abreu**
+## 📌 Informações do Projeto
+
+**Autora: Isabelle dos Santos de Abreu**
 **Turma: DS3B**
 **Disciplina: Internet das Coisas (Iot)**
 
-
 ## Demonstração em Vídeo
 
-[Assista ao vídeo do projeto no Youtube]()
+[Assista ao vídeo do projeto no Youtube](https://studio.youtube.com/video/1mAasDOF_Qw/edit)
 
 ---
 
